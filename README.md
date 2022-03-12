@@ -1,37 +1,33 @@
 ## Welcome to the Marito GitHub Page
 
-You can use the [editor on GitHub](https://github.com/marito-repo/hello-marito/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [official webpage](https://marito.co.za) to find out more information about the project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Marito is a large lexicographical engine for South African vernacular languages. The engine has a collection of various AI and statistical models built solely for these languages. We use the engine for a variety of purposes, including spellchecking, paraphrasing and editing vernacular documents. The domains range from general, to financial and medical terminologies, and everything in between.
 
-### Markdown
+### Phase 1: Marito Dictionaries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For phase 1 of the project, we are using the engine to produce large bilingual dictionaries. These dictionaries cater for beginner to advanced users who either know English and seek to learn or use vernacular languages or vice versa. The marito engine allows for the calibration of the dictionaries to match specific target audiences.
 
-```markdown
-Syntax highlighted code block
+Take a look inside the dictionaries below:
 
-# Header 1
-## Header 2
-### Header 3
+- [Tsonga]()
+- Venda
+- Pedi
+- Sotho
+- Tswana
+- Swati
+- Xhosa
+- Zulu
+- Ndebele
 
-- Bulleted
-- List
+### Phase 2: Mongwaledi writing assistant
 
-1. Numbered
-2. List
+For phase 2 of the project, we allow users to engange with a writing assistant software called Mongwaledi. This is a text editor that assists users of South African languages to gain access AI powered spellcheckers, grammar correction, paraphrasing and other essential features for a powerful writing experience.
 
-**Bold** and _Italic_ and `Code` text
+Check out Mongwaledi below:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marito-repo/hello-marito/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Open Mongwaledi]()
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Reach out at lindo@marito.co.za (0870927921) or willkhoza@gmail.com (0799365597) for urgent queries and we will be happy to assist.
