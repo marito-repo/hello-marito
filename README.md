@@ -10,7 +10,7 @@ For phase 1 of the project, we are using the engine to produce large bilingual d
 
 Take a look inside the dictionaries below:
 
-- [Tsonga]()
+- [Tsonga](tsonga_dictionary.pdf)
 - Venda
 - Pedi
 - Sotho
